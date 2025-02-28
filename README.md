@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bikram-Mondal3
+- 👋 Hi, I’m Bikram Mondal
 - 👀 I’m interested in programming specially Machine learning and Deep learning.
 - 🌱 I’m currently enrolled in B.Tech course computer science & engineering with specialization AIML.
 - 📫 You may contact me at codesnippets45@gmail.com
