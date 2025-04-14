@@ -1,6 +1,6 @@
 # 🧑‍💻 About Me:
 <h1 align="left">Hi! I'm Bikram Mondal 👋</h1>
-<h3 align="left">A passionate developer from India 🇮🇳</h3>
+I’m passionate about exploring new technologies to refine my skills and build interactive, real-world solutions. My coding journey began with curiosity to create, automate, and solve everyday challenges. I'm currently diving deeper into full-stack web development and exploring AI and machine learning concepts. Outside of my code editor, I enjoy writing articles on Quora and crafting short fictional stories.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram-mondal-a2bb18343) 
