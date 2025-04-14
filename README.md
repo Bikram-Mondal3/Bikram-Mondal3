@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bikram-Mondal3&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-stats-alpha.vercel.app/api?username=Bikram-Mondal3&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bikram-Mondal3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram-Mondal3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
